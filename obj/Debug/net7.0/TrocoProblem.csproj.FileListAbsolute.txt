@@ -1,0 +1,14 @@
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\bin\Debug\net7.0\TrocoProblem.exe
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\bin\Debug\net7.0\TrocoProblem.deps.json
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\bin\Debug\net7.0\TrocoProblem.runtimeconfig.json
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\bin\Debug\net7.0\TrocoProblem.dll
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\bin\Debug\net7.0\TrocoProblem.pdb
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.AssemblyInfoInputs.cache
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.AssemblyInfo.cs
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.csproj.CoreCompileInputs.cache
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.dll
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\refint\TrocoProblem.dll
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.pdb
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\TrocoProblem.genruntimeconfig.cache
+C:\Users\windows\RiderProjects\TrocoProblem\TrocoProblem\obj\Debug\net7.0\ref\TrocoProblem.dll
